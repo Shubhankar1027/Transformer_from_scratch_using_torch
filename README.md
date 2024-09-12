@@ -2,7 +2,8 @@
 *  Developed and implemented a custom Transformer model from scratch using PyTorch for English-to-Hindi translation, featuring attention visualization and flexible configuration.
 *  Achieved a strong performance with a loss range of 1-2.1 in both training and validation and a BLEU score of 23.67, demonstrating accurate inference at test time with robust character and word error rates.
 * few outputs:
-* Input sentence :  its your resource its not somebody elses
+-
+Input sentence :  its your resource its not somebody elses
 Decoded sentence :  हाँ हम में से कुछ सामान्य क्षेत्र में हैं                                                                                            
 -
 Input sentence :  its about following your own dreams
