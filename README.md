@@ -1,6 +1,6 @@
 * TransHindiMT: A PyTorch-based Machine Translation model for English-to-Hindi using Transformer architecture
 *  Developed and implemented a custom Transformer model from scratch using PyTorch for English-to-Hindi translation, featuring attention visualization and flexible configuration.
-*  Achieved a strong performance with a loss range of 1-2.1 in both training and validation and a BLEU score of 23.67, demonstrating accurate inference at test time with robust character and word error rates.
+*  Achieved a strong performance with a loss range of 1-2.1 in both training and validation and a BLEU score of 17.67, demonstrating accurate inference at test time with robust character and word error rates.
 * few outputs:
 -
 Input sentence :  its your resource its not somebody elses
